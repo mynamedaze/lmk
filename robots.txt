@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /blog/assets/components/
+Disallow: /blog/assets/mailphp/
+Disallow: *?
+Sitemap: https://xn--80adbkporkockmsy.xn--p1ai/blog/sitemap.xml
